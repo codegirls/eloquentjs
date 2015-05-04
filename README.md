@@ -2,6 +2,8 @@
 
 Welcome!  This is a place where we collect materials for the `eloquent.js` book club.
 
+We're reading chapters of [Eloquent JavaScript](http://eloquentjavascript.net) every week and then meet to discuss them every two weeks.
+
 ## Sessions
 
 The next session will be on May 5th, that is, it will be next tuesday!
