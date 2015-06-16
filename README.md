@@ -14,6 +14,8 @@ We're reading chapters of [Eloquent JavaScript](http://eloquentjavascript.net) e
 The next session will be on May 5th, that is, it will be next tuesday!
 
 - 0: [Introduction](./00), read [the introductory chapter](http://eloquentjavascript.net/00_intro.html) to prepare for it
+- 2: [Chapter 2](./02), Program Structure
+- 3: [Chapter 3](./03), Program Structure (part 2)
 
 ## Inspiration & Ideas
 
