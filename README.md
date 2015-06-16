@@ -1,3 +1,8 @@
+---
+title: The eloquent.js book club
+permalink: /index.html
+---
+
 # The eloquent.js book club
 
 Welcome!  This is a place where we collect materials for the `eloquent.js` book club.

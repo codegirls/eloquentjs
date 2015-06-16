@@ -1,5 +1,6 @@
 ---
 title: eloquent.js book club - session #0
+permalink: /00/index.html
 ---
 
 # eloquent.js book club - session #0
