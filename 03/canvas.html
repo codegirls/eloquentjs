@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Canvas!</title>
+    <meta charset="utf-8" />
+    <style>
+      body { overflow: hidden; }
+    </style>
+  </head>
+
+  <body>
+    <canvas id="canvas"></canvas>
+
+    <script>
+      // Initialize the canvas
+      var canvas = document.getElementById("canvas");
+      var ctx = canvas.getContext("2d");
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+
+      // Let's draw something:
+      ctx.fillStyle = "red";
+      ctx.fillRect(50, 50, 100, 100);
+
+      // But that's a bit boring, let's try something
+      // more interesting!
+      var size = canvas.width / 100;
+      for (var i = 0; i < canvas.width / size; i += 2) {
+        for (var j = 0; j < canvas.height / size; j += 2) {
+          ctx.fillRect(i * size, j * size, size, size);
+        }
+      }
+    </script>
+  </body>
+</html>
