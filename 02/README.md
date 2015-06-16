@@ -1,3 +1,7 @@
+---
+title: eloquent.js book club - session #2
+---
+
 # eloquent.js book club - session #2
 
 (Chapter 2, Program Structure)

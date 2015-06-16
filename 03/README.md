@@ -1,6 +1,10 @@
-# eloquent.js book club - session #2
+---
+title: eloquent.js book club - session #3
+---
 
-(Chapter 2, Program Structure)
+# eloquent.js book club - session #3
+
+(Chapter 2, Program Structure, part 2)
 
 ## Materials
 

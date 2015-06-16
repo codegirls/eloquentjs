@@ -1,3 +1,7 @@
+---
+title: eloquent.js book club - session #0
+---
+
 # eloquent.js book club - session #0
 
 ## introduction
