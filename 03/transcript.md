@@ -52,7 +52,7 @@ First, printing a single line, consisting of the same character:
     for (var i = 0; i < 8; i++) {
       line += "#";
     }
-    console.log(line)
+    console.log(line);
 
 Then we needed to know how to print a different character at the
 "odd" positions.  To check for that, we see if the current position
@@ -66,7 +66,7 @@ Then we needed to know how to print a different character at the
         line += " ";
       }
     }
-    console.log(line)
+    console.log(line);
 
 Note that we can write this shorter, using the conditional operator (`?:`):
 
@@ -75,7 +75,7 @@ Note that we can write this shorter, using the conditional operator (`?:`):
     for (var i = 0; i < 8; i++) {
       line += i % 2 == 0 ? "#" : " ";
     }
-    console.log(line)
+    console.log(line);
 
 Following that, we added a second loop to print a board:
 
@@ -84,7 +84,7 @@ Following that, we added a second loop to print a board:
       for (var i = 0; i < 8; i++) {
         line += i % 2 == 0 ? "#" : " ";
       }
-      console.log(line)
+      console.log(line);
     }
 
 However, that's always the same line, which is not quite a chessboard.
@@ -101,7 +101,7 @@ add a single space in front of the odd lines so they are offset.
       if (n % 2 != 0) {
         line = " " + line;
       }
-      console.log(line)
+      console.log(line);
     }
 
 We could write this shorter as well, again using the conditional
@@ -121,7 +121,7 @@ and only print it out in the end?  We did that, using the string
       if (n % 2 != 0) {
         line = " " + line;
       }
-      chessboard += line + "\n"
+      chessboard += line + "\n";
     }
     console.log(chessboard);
 
