@@ -11,7 +11,7 @@ As always, you can send comments & questions to `info@codegirls.de`.
 
 ## Materials
 
-- [the transcript](./transcript.html) from last time
+- [the transcript](./transcript.html) with the solutions (and steps)
 - [canvas.html](./canvas.html), download and edit this, then open it
     in your browser.  in particular, see what happens when you remove
     the comments around the second part of the code.
