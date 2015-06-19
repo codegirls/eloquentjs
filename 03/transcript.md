@@ -39,7 +39,7 @@ Note that we can write this shorter, using the conditional operator (`?:`):
 
 Following that, we added a second loop to print a board:
 
-    for (var n = 0; n < 8; i++) {
+    for (var n = 0; n < 8; n++) {
       var line = "";
       for (var i = 0; i < 8; i++) {
         line += i % 2 == 0 ? "#" : " ";
@@ -53,7 +53,7 @@ position is divisble by two, i.e. if `n % 2 == 0` is true, and
 add a single space in front of the odd lines so they are offset.
 
 
-    for (var n = 0; n < 8; i++) {
+    for (var n = 0; n < 8; n++) {
       var line = "";
       for (var i = 0; i < 8; i++) {
         line += i % 2 == 0 ? "#" : " ";
@@ -73,7 +73,7 @@ and only print it out in the end?  We did that, using the string
 `"\n"` to insert line breaks (also called newlines).
 
     var chessboard = "";
-    for (var n = 0; n < 8; i++) {
+    for (var n = 0; n < 8; n++) {
     var line = "";
       for (var i = 0; i < 8; i++) {
         line += i % 2 == 0 ? "#" : " ";
