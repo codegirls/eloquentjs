@@ -4,6 +4,46 @@ title: eloquent.js book club - transcript from session #3
 
 # eloquent.js book club - transcript from session #3
 
+## FizzBuzz
+
+The solution we discussed was the following:
+
+    for (var i = 0; i <= 100; i++) {
+      var word;
+      if (i % 3 == 0 && i % 5 == 0) {
+        word = "Fizzbuzz";
+      } else {
+        if (i % 3 == 0) {
+          word = "FIZZ";
+        }
+        if (i % 5 == 0) {
+          word = "BUZZ";
+        }
+      }
+      
+      word ? console.log(word) : console.log(i);
+    }
+
+However, it is also wrong.  It doesn't print numbers, and in fact
+when it should print numbers it prints the previous `"Fizzbuzz"`,
+`"FIZZ"` or `"BUZZ"`.
+
+What's the problem?  (If you want to figure it out yourself,
+don't read any further, come back if you have.)
+
+The problem is that when we enter the loop body, `word` still has
+the previous value.  If we have set it to `"Fizz"` before, then
+it will still be `"Fizz"` in the next iteration.
+
+There are two ways to fix it:
+
+- reset `word` at each iteration: `var word = null;`
+- use `let`, as we discussed shortly: `let word;`
+
+Both should fix our solution.
+
+(The lesson:  Always run your code, even if it "looks correct".)
+
 ## Solving the chessboard exercise
 
 First, printing a single line, consisting of the same character:
