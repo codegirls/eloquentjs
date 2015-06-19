@@ -8,13 +8,11 @@ title: eloquent.js book club - transcript from session #3
 
 First, printing a single line, consisting of the same character:
 
-```
-var line = "";
-for (var i = 0; i < 8; i++) {
-  line += "#";
-}
-console.log(line)
-```
+    var line = "";
+    for (var i = 0; i < 8; i++) {
+      line += "#";
+    }
+    console.log(line)
 
 Then we needed to know how to print a different character at the
 "odd" positions.  To check for that, we see if the current position
