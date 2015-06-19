@@ -58,7 +58,7 @@ add a single space in front of the odd lines so they are offset.
       for (var i = 0; i < 8; i++) {
         line += i % 2 == 0 ? "#" : " ";
       }
-      if (n % 2 != 0 {
+      if (n % 2 != 0) {
         line = " " + line;
       }
       console.log(line)
@@ -78,7 +78,7 @@ and only print it out in the end?  We did that, using the string
       for (var i = 0; i < 8; i++) {
         line += i % 2 == 0 ? "#" : " ";
       }
-      if (n % 2 != 0 {
+      if (n % 2 != 0) {
         line = " " + line;
       }
       chessboard += line + "\n"
