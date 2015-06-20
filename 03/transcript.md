@@ -4,6 +4,19 @@ title: eloquent.js book club - transcript from session #3
 
 # eloquent.js book club - transcript from session #3
 
+## Looping a triangle
+
+    for (var zeichen = "#"; zeichen.length <= 6; zeichen += "#")
+      console.log(zeichen);
+
+Note that this is definitely not the only solution.  There are
+always lots of different ways of solving a problem, the above is
+just one.
+
+For example, you could use a `while` loop, or use a counter to
+track how many lines you have already printed, ...  There's no
+one true solution.
+
 ## FizzBuzz
 
 The solution we discussed was the following:
