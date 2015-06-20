@@ -5,6 +5,8 @@ permalink: /00/index.html
 
 # eloquent.js book club - session #0
 
+([Chapter 0, Introduction](http://eloquentjavascript.net/00_intro.html))
+
 ## introduction
 
 - what are we going to do?  (read the first part of the book, learn about javascript (the language), gain confidence (and a bit of experience) for how to keep on learning.)

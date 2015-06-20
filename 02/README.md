@@ -5,7 +5,7 @@ permalink: /02/index.html
 
 # eloquent.js book club - session #2
 
-(Chapter 2, Program Structure)
+([Chapter 2, Program Structure](http://eloquentjavascript.net/02_program_structure.html))
 
 ## Materials
 

@@ -5,7 +5,7 @@ permalink: /03/index.html
 
 # eloquent.js book club - session #3
 
-(Chapter 2, Program Structure, part 2)
+([Chapter 2, Program Structure](http://eloquentjavascript.net/02_program_structure.html), part 2)
 
 As always, you can send comments & questions to `info@codegirls.de`.
 
