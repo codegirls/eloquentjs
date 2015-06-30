@@ -7,7 +7,7 @@ permalink: /04/index.html
 
 ([Chapter 3, Functions](http://eloquentjavascript.net/03_functions.html))
 
-We might use a digital "whiteboard", it lives here: <http://pad.papill0n.org/p/eloquentjs>.
+We might use a [digital "whiteboard"](http://pad.papill0n.org/p/eloquentjs?noColors=true&useMonospaceFont=true).
 
 ## Some questions
 
