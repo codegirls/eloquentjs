@@ -5,7 +5,7 @@ permalink: /04/index.html
 
 # eloquent.js book club - session #4
 
-([Chapter 3, Functions](http://eloquentjavascript.net/03_functions.html))
+([Chapter 4, Functions](http://eloquentjavascript.net/03_functions.html))
 
 We might use a [digital "whiteboard"](http://pad.papill0n.org/p/eloquentjs?noColors=true&useMonospaceFont=true).
 
