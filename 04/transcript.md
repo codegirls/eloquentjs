@@ -1,3 +1,7 @@
+---
+title: Transcript from session #4
+---
+
 # Transcript from session #4
 
 ## Defining functions
