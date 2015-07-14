@@ -9,6 +9,8 @@ permalink: /04/index.html
 
 We might use a [digital "whiteboard"](http://pad.papill0n.org/p/eloquentjs?noColors=true&useMonospaceFont=true).
 
+There's a [transcript](./transcript.html) of the session.
+
 ## Some questions
 
 Let's refresh a few things this chapter uses:
