@@ -8,5 +8,5 @@ permalink: /05/index.html
 ([Chapter 4, Functions (part 2)](http://eloquentjavascript.net/03_functions.html))
 
 - [digital "whiteboard"](http://pad.papill0n.org/p/eloquentjs?noColors=true&useMonospaceFont=true).
-- transcript (doesn't exist yet)
+- [transcript](./transcript.html)
 
