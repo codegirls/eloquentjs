@@ -18,6 +18,7 @@ The next session will be on May 5th, that is, it will be next tuesday!
 - 3: [Chapter 3](./03), Program Structure (part 2)
 - 4: [Chapter 4](./04), Functions
 - 5: [Chapter 4](./05), Functions (part 2)
+- 6: [Chapter 4](./06), Functions (part 3)
 
 ## Inspiration & Ideas
 
