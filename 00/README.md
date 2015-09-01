@@ -5,7 +5,7 @@ permalink: /00/index.html
 
 # eloquent.js book club - session #0
 
-([Chapter 0, Introduction](http://eloquentjavascript.net/00_intro.html))
+[Chapter 0, Introduction](http://eloquentjavascript.net/00_intro.html)
 
 ## introduction
 
