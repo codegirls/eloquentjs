@@ -19,6 +19,7 @@ The next session will be on May 5th, that is, it will be next tuesday!
 - 4: [Chapter 3](./04), Functions
 - 5: [Chapter 3](./05), Functions (part 2)
 - 6: [Chapter 3](./06), Functions (part 3)
+- 7: [Chapter 4](./07), Data Structures: Objects and Arrays
 
 ## Inspiration & Ideas
 
